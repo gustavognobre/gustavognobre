@@ -1,52 +1,49 @@
 # 👨‍💻 Gustavo Nobre
 
-Software Engineer focused on building web applications and scalable systems.
+Fullstack Software Engineer focused on building modern web applications with strong backend architecture.
 
-Currently working at **MMTechDevBr**, with hands-on experience in:
-- Migrating monolithic systems to microservices
-- Designing backend services and APIs
-- Developing modern web applications
-
----
-
-## 🚀 What I'm working on
-
-- Improving system architecture and scalability
-- Applying software engineering best practices in real-world projects
-- Building fullstack applications using modern technologies
+Currently working at **MMTechDevBr**, developing and evolving systems using:
+- React / Next.js on the frontend
+- Node.js / NestJS and Python on the backend
+- PostgreSQL and modern data tools
 
 ---
 
-## 🧠 Interests
+## 🚀 What I do
 
-- Distributed systems
-- Microservices architecture
-- Data analysis and machine learning
-- System modeling and optimization
+- Build fullstack web applications using Next.js and TypeScript
+- Design and implement backend services with Node.js, NestJS and Python
+- Refactor monolithic systems into scalable architectures
+- Work with APIs, databases and system integrations
+
+---
+
+## 🧠 Focus Areas
+
+- Fullstack web development
+- Backend architecture and APIs
+- Microservices and system design
+- Performance and scalability
 
 ---
 
 ## 🛠 Tech Stack
 
 **Frontend**
-- React / Next.js
+- React
+- Next.js
 - TypeScript
-- HTML / CSS
 
 **Backend**
 - Node.js
+- NestJS
 - Python
-- Prisma
-
-**Data & ML**
-- Pandas
-- Scikit-learn
-- TensorFlow
 
 **Database**
 - PostgreSQL
 
 **Tools**
+- Prisma
 - Git
 - REST APIs
 
@@ -55,17 +52,17 @@ Currently working at **MMTechDevBr**, with hands-on experience in:
 ## 📌 Featured Projects
 
 - **login_nextauth**  
-  Authentication system using NextAuth with Next.js
+  Authentication system with NextAuth in Next.js
 
 - **analise_solaris**  
-  Data analysis and fault detection using Python
+  Data analysis pipeline using Python
 
 - **projeto-monografia**  
-  Academic project focused on system modeling
+  System modeling project applied to real scenarios
 
 ---
 
-## 🌐 Connect with me
+## 🌐 Contact
 
 - LinkedIn: https://linkedin.com/in/gustavogomesnobre
 - Instagram: https://instagram.com/gustavognobre
