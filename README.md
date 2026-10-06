@@ -1,64 +1,52 @@
-<h1 data-importer="text" align="center">Hey 👋What's Up?</h1>
+﻿<h1 align="center">Olá, eu sou o Gustavo 👋</h1>
 
-###
+<p align="center">
+  Engenheiro de software · Brasil 🇧🇷
+</p>
 
-<br clear="both">
-
-<p data-importer="text" align="center">My name is Gustavo and I'm a software engineer from  Brasil.</p>
-
-###
-
-<div data-importer="techs" align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="60" alt="flutter logo"  />
-</div>
-
-###
-
-<div data-importer="socials" align="center">
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
-  <a href="https://www.linkedin.com/in/gustavogomesnobre/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+<p align="center">
+  <a href="https://wwws.cnpq.br/cvlattesweb/PKG_MENU.menu?f_cod=74CB622B133E7A6F8C15AD9D7A5845AD">
+    <img src="https://img.shields.io/badge/Curr%C3%ADculo_Lattes-7AA2F7?style=for-the-badge&logoColor=white" alt="Acessar meu Currículo Lattes" />
   </a>
-  <a href="gustavognobre@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <a href="https://www.linkedin.com/in/gustavogomesnobre/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge" alt="Acessar meu LinkedIn" />
   </a>
-</div>
+  <a href="mailto:gustavognobre@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar um e-mail para Gustavo" />
+  </a>
+</p>
 
-###
+## Sobre mim
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/gustavognobre/gustavognobre/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/gustavognobre/gustavognobre/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+Sou Gustavo Gomes Nobre, engenheiro de software no Brasil. Minha stack reúne tecnologias para desenvolvimento web e mobile, além de ferramentas para trabalhar com dados e versionamento de código.
 
-###
+- **Web:** TypeScript, JavaScript, Next.js e NestJS.
+- **Mobile:** Flutter.
+- **Dados e ferramentas:** Python, MySQL, Git e GitHub.
+- **Trajetória acadêmica:** disponível no meu [Currículo Lattes](https://wwws.cnpq.br/cvlattesweb/PKG_MENU.menu?f_cod=74CB622B133E7A6F8C15AD9D7A5845AD).
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gustavognobre/gustavognobre/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gustavognobre/gustavognobre/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/gustavognobre/gustavognobre/pacman-output/pacman-contribution-graph.svg?game=pacman">
+## Tecnologias
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,nextjs,nestjs,py,mysql,flutter,git,github&theme=dark&perline=5" alt="Tecnologias: TypeScript, JavaScript, Next.js, NestJS, Python, MySQL, Flutter, Git e GitHub" />
+</p>
+
+## Atividade no GitHub
+
+<!-- O tema e o idioma dos SVGs são definidos nos workflows stats.yml e languages.yml. -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gustavognobre/gustavognobre/stats-output/stats.svg" height="165" alt="Estatísticas públicas do GitHub de Gustavo" />
+  <img src="https://raw.githubusercontent.com/gustavognobre/gustavognobre/languages-output/languages.svg" height="165" alt="Linguagens mais utilizadas nos repositórios de Gustavo" />
+</p>
+
+## Minhas contribuições em movimento
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gustavognobre/gustavognobre/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gustavognobre/gustavognobre/pacman-output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man percorrendo meu calendário de contribuições no GitHub" src="https://raw.githubusercontent.com/gustavognobre/gustavognobre/pacman-output/pacman-contribution-graph.svg">
 </picture>
 
-###
-
-<div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=gustavognobre.gustavognobre&"  />
-</div>
-
-###
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=gustavognobre.gustavognobre" alt="Contador de visitas ao perfil" />
+</p>
