@@ -3,37 +3,21 @@
 <p align="center">My name is Gustavo and I'm a Fullstack Software Engineer from Brasil.</p>
 
 <div align="center">
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" height="35" alt="linkedin logo" />
+  <a href="https://www.linkedin.com/in/gustavogomesnobre/" target="_blank">
+    <img src="https://shields.io" height="25" alt="linkedin logo" />
   </a>
   <a href="mailto:gustavognobre@gmail.com" target="_blank">
-    <img src="https://shields.io" height="35" alt="gmail logo" />
+    <img src="https://shields.io" height="25" alt="gmail logo" />
   </a>
   <a href="https://dev.to" target="_blank">
-    <img src="https://shields.io" height="35" alt="devto logo" />
+    <img src="https://shields.io" height="25" alt="devto logo" />
   </a>
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://skillicons.dev" height="60" alt="typescript logo" />
-  <img width="6" />
-  <img src="https://skillicons.dev" height="60" alt="nextjs logo" />
-  <img width="6" />
-  <img src="https://skillicons.dev" height="60" alt="nestjs logo" />
-  <img width="6" />
-  <img src="https://skillicons.dev" height="60" alt="python logo" />
-  <img width="6" />
-  <img src="https://skillicons.dev" height="60" alt="mysql logo" />
-  <img width="6" />
-  <img src="https://skillicons.dev" height="60" alt="javascript logo" />
-  <img width="6" />
-  <img src="https://skillicons.dev" height="60" alt="git logo" />
-  <img width="6" />
-  <img src="https://skillicons.devhub" height="60" alt="github logo" />
-  <img width="6" />
-  <img src="https://skillicons.dev" height="60" alt="flutter logo" />
+  <img src="https://skillicons.dev" alt="techstack" />
 </div>
 
 ---
@@ -69,22 +53,22 @@ Currently working at **MMTechDevBr**, developing and evolving systems using:
 ## 📊 Git Status & Contributions
 
 <div align="center">
-  <img src="https://githubusercontent.com" height="150" alt="stats graph" />
-  <img src="https://githubusercontent.com" height="150" alt="languages graph" />
+  <img src="https://raw.githubusercontent.com/gustavognobre/gustavognobre/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://raw.githubusercontent.com/gustavognobre/gustavognobre/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
 <br />
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
-    <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
-    <img alt="pacman contribution graph" src="https://githubusercontent.com">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gustavognobre/gustavognobre/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gustavognobre/gustavognobre/pacman-output/pacman-contribution-graph.svg?game=pacman">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/gustavognobre/gustavognobre/pacman-output/pacman-contribution-graph.svg?game=pacman">
   </picture>
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://laobi.icu" alt="visitor badge" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=gustavognobre.gustavognobre" alt="visitor badge" />
 </div>
