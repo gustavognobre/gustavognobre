@@ -18,13 +18,24 @@ jobs:
     timeout-minutes: 5
 
     steps:
+      - name: Check stats token
+        shell: bash
+        env:
+          STATS_TOKEN: ${{ secrets.STATS_TOKEN }}
+        run: |
+          if [ -z "$STATS_TOKEN" ]; then
+            echo "::error::Crie o secret STATS_TOKEN com um token pessoal do GitHub para consultar as estatisticas do perfil."
+            exit 1
+          fi
+
       - name: generate languages.svg
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
           options: username=${{ github.repository_owner }}&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true
           path: dist/languages.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.STATS_TOKEN }}
+          fail_on_error: true
 
 
       - name: push languages.svg to the output branch
