@@ -31,13 +31,6 @@ Sou Gustavo Gomes Nobre, engenheiro de software no Brasil. Minha stack reúne te
   <img src="https://skillicons.dev/icons?i=ts,js,nextjs,nestjs,py,mysql,flutter,git,github&theme=dark&perline=5" alt="Tecnologias: TypeScript, JavaScript, Next.js, NestJS, Python, MySQL, Flutter, Git e GitHub" />
 </p>
 
-## Atividade no GitHub
-
-<!-- O tema e o idioma dos SVGs são definidos nos workflows stats.yml e languages.yml. -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/gustavognobre/gustavognobre/languages-output/languages.svg" height="165" alt="Linguagens mais utilizadas nos repositórios de Gustavo" />
-</p>
-
 ## Minhas contribuições em movimento
 
 <picture>
